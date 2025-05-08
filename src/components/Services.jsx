@@ -7,7 +7,7 @@ import ServiceComponent from './ServiceComponent';
 import Uptime from '../assets/ServiceLogo/Uptime';
 import Users from '../assets/ServiceLogo/Users';
 import Cart from '../assets/ServiceLogo/Cart';
-import Countries from '../assets/ServiceLogo/countries';
+import Countries from '../assets/ServiceLogo/Countries';
 
 function Services() {
     return (
